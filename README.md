@@ -1,4 +1,4 @@
-```md
+
 # Machine Learning Laboratory Experiments
 
 This repository presents the machine learning experiments and coursework completed during Semester 6. It organizes assignments, datasets, implementations, and reports in a structured format.
@@ -18,7 +18,7 @@ ML-lab-main/
 ├── README.md            # Project documentation
 └── .gitignore           # Git ignore configuration
 
-````
+```
 
 Each assignment directory contains the required notebooks, datasets, plots, and reports.
 
